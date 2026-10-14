@@ -17,7 +17,7 @@ Ruby on Rails · Python · Vue.js · JavaScript · PostgreSQL · Docker · GitLa
 
 ### Featured
 - [crazy-workers](https://github.com/giovanni-colasanto/crazy-workers): Python library for background workers with persistent state, crash recovery and a CLI ([PyPI](https://pypi.org/project/crazy-workers/))
-- [ruby-stix2](https://github.com/giovanni-colasanto/ruby-stix2): Ruby implementation of the STIX 2 threat intelligence format
+- Contributor to [ruby-stix2](https://github.com/crondaemon/ruby-stix2), a Ruby implementation of the STIX 2 threat intelligence format ([merged PR](https://github.com/crondaemon/ruby-stix2/pull/12))
 
 ### Contact
 [fastsite.it](https://fastsite.it) · [LinkedIn](https://www.linkedin.com/in/giovanni-colasanto/) · Italian and written English
