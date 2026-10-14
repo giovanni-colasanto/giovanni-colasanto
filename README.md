@@ -16,6 +16,7 @@ Full-stack web developer from Molfetta, Italy.
 Ruby on Rails · Python · Vue.js · JavaScript · PostgreSQL · Docker · GitLab CI
 
 ### Featured
+- [comics-translator](https://github.com/giovanni-colasanto/comics-translator): translates comic pages: OCR of the balloons, AI-assisted translation and review, text redrawn inside each balloon
 - [crazy-workers](https://github.com/giovanni-colasanto/crazy-workers): Python library for background workers with persistent state, crash recovery and a CLI ([PyPI](https://pypi.org/project/crazy-workers/))
 - Contributor to [ruby-stix2](https://github.com/crondaemon/ruby-stix2), a Ruby implementation of the STIX 2 threat intelligence format ([merged PR](https://github.com/crondaemon/ruby-stix2/pull/12))
 
